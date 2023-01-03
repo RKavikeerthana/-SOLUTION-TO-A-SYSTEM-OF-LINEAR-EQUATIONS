@@ -33,7 +33,7 @@ print(sol)
 ```
 
 ## Output:
-![](./system of linear equation.png)
+![](lineareq.png)
 
 ## Result: 
 
